@@ -1,0 +1,6 @@
+= DeskOS: xvidcore RPM
+
+This is the _xvidcore_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/xvidcore-1.3.2-5.el7.nux.src.rpm[xvidcore-1.3.2-5.el7.nux.src.rpm]
